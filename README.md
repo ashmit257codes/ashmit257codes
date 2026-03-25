@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Ashmit Choudhary
 
-<!--
-**ashmit257codes/ashmit257codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Computer Science student passionate about technology and problem-solving.
 
-Here are some ideas to get you started:
+💻 Currently learning:
+- Data Structures & Algorithms (DSA)
+- Artificial Intelligence & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills:
+- Programming in C/C++ / Python (edit based on what you know)
+- Basic problem solving
+- Understanding of core computer science concepts
+
+📚 Interests:
+- Building real-world projects
+- Exploring AI tools and automation
+- Improving coding skills
+
+🎯 Goals:
+- Become a skilled AI/ML Engineer
+- Contribute to open-source projects
+- Build impactful applications
+
+📫 How to reach me:
+- Email: ashmitchoudhary257@gmail.com
+
