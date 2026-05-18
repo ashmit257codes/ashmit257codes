@@ -7,7 +7,7 @@
 - Artificial Intelligence & Machine Learning
 
 🚀 Skills:
-- Programming in C/C++ / Python (edit based on what you know)
+- Programming in C/C++ / Python 
 - Basic problem solving
 - Understanding of core computer science concepts
 
