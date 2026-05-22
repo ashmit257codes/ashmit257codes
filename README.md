@@ -1,18 +1,17 @@
-# Hi there, I'm Ashmit! 👋
+# 🎖️ Jai Hind! Welcome to Ashmit's Command_Base.git 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Python+and+C%2B%2B+Developer;AI+%2F+ML+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Python+and+C%2B%2B+Developer;Exploring+Artificial+Intelligence+and+Machine+Learning;Building+Intelligent+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Operations Briefing
 
-I am a software developer focused on strengthening my foundational computer science skills and building innovative, data-driven applications. 
+I am a software developer focused on strengthening my foundational computer science skills and deploying innovative, data-driven applications.
 
-- 🔭 **Currently focusing on:** Deepening my **AI/ML skills** and mastering **DSA foundations**.
-- 💡 **Future Goals:** Looking forward to collaborating on and building intelligent, **AI-based projects**.
-- 🛠️ **Philosophy:** Exploring the world of open-source and writing efficient, clean code.
+- 🔭 **Current Directives:** Deepening my **AI/ML skills** and mastering **DSA foundations**.
+- 💡 **Mission Objectives:** Looking forward to collaborating on and building intelligent, **AI-based projects**.
 
 ---
 
@@ -49,5 +48,5 @@ I am a software developer focused on strengthening my foundational computer scie
 ---
 
 <p align="center">
-  🌐 Feel free to explore my repositories and reach out for collaborations!
+  🌐 Strategic lines open. Feel free to explore my repositories and reach out for collaborations!
 </p>
