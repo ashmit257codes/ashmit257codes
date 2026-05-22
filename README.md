@@ -1,7 +1,7 @@
 # 🎖️ Jai Hind! Welcome to Ashmit's Command_Base.git 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Python+and+C%2B%2B+Developer;Exploring+Artificial+Intelligence+and+Machine+Learning;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Python+and+C%2B%2B+Developer;Exploring+AI%2FML;Building+Intelligent+Solutions" alt="Typing SVG" />
 </p>
 
 ---
