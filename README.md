@@ -1,93 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ashmit</h1>
+# Hi there, I'm Ashmit! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+Student;Learning+DSA+%7C+DBMS;Python+%7C+C%2B%2B;Building+Projects+Step+by+Step" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Python+and+C%2B%2B+Developer;AI+%2F+ML+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
 </p>
-
-<h3 align="center">
-Exploring software development and growing one project at a time 🚀
-</h3>
-
-<img align="right" alt="coding" width="300"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-### 👨‍💻 About Me
-
-- 🌱 Currently learning **DSA, DBMS, Pandas**
-- 🔭 Working toward **real-world projects**
-- 📚 Solved **9+ DSA problems and continuing**
-- ⚡ Goal: Build useful projects and improve problem solving
-- 🎯 2026 Goals:
-   - Improve DSA consistency
-   - Build AI-based projects
-   - Learn Full Stack Development
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 About Me
+
+I am a software developer focused on strengthening my foundational computer science skills and building innovative, data-driven applications. 
+
+- 🔭 **Currently focusing on:** Deepening my **AI/ML skills** and mastering **DSA foundations**.
+- 💡 **Future Goals:** Looking forward to collaborating on and building intelligent, **AI-based projects**.
+- 🛠️ **Philosophy:** Exploring the world of open-source and writing efficient, clean code.
+
+---
+
+### 🎨 Tech Discoveries
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  
+  <!-- AI/ML Libraries -->
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### 📚 Currently Exploring
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-- NumPy
-- Pandas
-- Matplotlib
-- DBMS
-- DSA
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=ashmit257&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=ashmit257&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ashmit257codes&show_icons=true&theme=tokyonight&count_private=true" alt="Ashmit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmit257codes&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmit257&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmit257codes&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" />
 </p>
 
 ---
 
 <p align="center">
-✨ Small progress every day compounds into big results ✨
+  🌐 Feel free to explore my repositories and reach out for collaborations!
 </p>
